@@ -1,0 +1,36 @@
+# DEPENDENCIES
+.pnp.js
+.yarn/install-state.gz
+/.pnp
+/node_modules
+**/package-lock.json
+
+# TESTING
+/coverage
+
+# NEXTJS
+/.next/
+/out/
+
+# PRODUCTION
+/build
+
+# MISC
+.DS_Store
+*.pem
+
+# DEBU
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# ENV
+.env
+.env*.local
+
+# VERCEL
+.vercel
+
+# TYPESCRIPT
+*.tsbuildinfo
+next-env.d.ts

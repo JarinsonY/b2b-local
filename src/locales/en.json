@@ -1,0 +1,55 @@
+{
+    "Constants": {
+        "Loading": "Loading..."
+    },
+    "Language": {
+        "es": "Spanish",
+        "en": "English"
+    },
+    "Login": {
+        "Description": "B2B SaaS platform to manage your business",
+        "Email": "Email",
+        "EmailPlaceholder": "Enter your email",
+        "Enter": "Enter",
+        "ForgotPassword": "Forgot password?",
+        "Password": "Password",
+        "PasswordPlaceholder": "Enter your password",
+        "SignIn": "Sign In",
+        "SignOut": "Sign Out",
+        "SignUp": "Sign Up",
+        "Welcome": "Welcome!"
+    },
+    "Register": {
+        "Back": "Back",
+        "Business": "Business name",
+        "BusinessPlaceholder": "Enter your business name",
+        "Country": "Country code",
+        "CountryPlaceholder": "Select your country",
+        "Description": "B2B SaaS platform to manage your business",
+        "Email": "Email",
+        "EmailPlaceholder": "Enter your email",
+        "FullName": "Full name",
+        "FullNamePlaceholder": "Enter your full name",
+        "Password": "Password",
+        "PasswordPlaceholder": "Enter your password",
+        "PhoneNumber": "Phone number",
+        "PhoneNumberPlaceholder": "Enter your phone number",
+        "SignUp": "Sign up",
+        "Welcome": "Welcome!"
+    },
+    "Schema": {
+        "Business": "Business required",
+        "Country": "Country required",
+        "Email": "Email is required",
+        "FullName": "Full name required",
+        "Password": "Password is required",
+        "PhoneNumber": "Phone number required"
+    },
+    "Toast": {
+        "Error": "Error",
+        "ErrorForm": "Errors on form, please check the fields.",
+        "Success": "Success",
+        "SuccessForm": "Form submitted successfully.",
+        "Warning": "Warning"
+    }
+}

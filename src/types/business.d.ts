@@ -1,0 +1,3 @@
+interface DtoUpdateBusiness {
+    name: string;
+}
